@@ -1,1 +1,1 @@
-# big_data_management
+Exam of Big Data Analytics. 
